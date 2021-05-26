@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="IPRSecond:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IPRSecond_jar</output-path>
+    <root id="archive" name="IPRSecond.jar">
+      <element id="module-output" name="IPRSecond" />
+    </root>
+  </artifact>
+</component>
